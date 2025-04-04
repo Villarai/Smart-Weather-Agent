@@ -13,7 +13,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/weather_agent.git
+git clone https://github.com/Villarai/Smart-Weather-Agent.git
 cd weather_agent
 ```
 
